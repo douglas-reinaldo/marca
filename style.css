@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.feature-box {
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+}
+
+.cas1 {
+    height: 80%;
+    width: 100%;
+    text-align: center;
+}
